@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 <a href="https://www.facebook.com/profile.php?id=100029250073046" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="th" height="30" width="40" /></a>
 <a href="https://www.instagram.com/van13072002//" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dgth2o2" height="30" width="40" /></a>
 - :smile: Pronouns: ...- :zap: Fun fact: ...- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trinhdangvan&show_icons=true&locale=en" alt="trinhdangvan" /></p>
-trinhdangvan/tr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+trinhdangvan/trinhdangvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
