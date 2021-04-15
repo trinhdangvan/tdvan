@@ -127,8 +127,8 @@ https://github.com/trinhdangvan
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
-- 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
+- 📫 Gmail:tuehue03@gmail.com
+- 📝 FB: https://www.facebook.com/profile.php?id=100029250073046
 
 **Languages and Tools:**  
 
@@ -146,9 +146,9 @@ https://github.com/trinhdangvan
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   13 hrs 54 mins  ████████████████▓░░░░░░░░   66.54 % 
-PHP          4 hrs 18 mins   █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-SSS         2 hrs 26 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+PHP   13 hrs 54 mins  ████████████████▓░░░░░░░░   66.54 % 
+CSS          4 hrs 18 mins   █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+JavaScript         2 hrs 26 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
 JSON         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 HTML        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 ```
