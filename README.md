@@ -4,7 +4,7 @@
 - - - 📫 Liên hệ Gmail với tôi tại *tuehue03@gmail.com*
 - 👨‍💻 Mọi dự án của tôi đều có tại [tr](https://github.com/trinhdangvan)
 Here are some ideas to get you started:
-- 🔭 I’m currently working on CodeGym
+- 🔭 I’m currently working on 
 <h3 align="left">Ngôn ngữ và công cụ sử dụng :</h3>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
